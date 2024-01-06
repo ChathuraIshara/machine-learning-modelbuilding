@@ -1,0 +1,1 @@
+## Here we have to build a machinlearning model for predicting salary based on the experienced years,test score,interview scores(linear regression multivariative)
