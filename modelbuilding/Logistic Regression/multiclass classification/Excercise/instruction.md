@@ -1,0 +1,1 @@
+## Use the irid dataset in sklearn libry and build a model for identifing the type of iris flower when the dimentions are given
