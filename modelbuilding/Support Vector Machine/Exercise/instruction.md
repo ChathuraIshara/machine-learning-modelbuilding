@@ -1,0 +1,1 @@
+## build the handwritten digits recognition model using SVM model
