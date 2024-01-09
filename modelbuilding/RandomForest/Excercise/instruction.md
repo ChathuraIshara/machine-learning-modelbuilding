@@ -1,0 +1,1 @@
+## use iris dataset and build the model for identifing the iris flowe type using RandomForest model and get the score by finetuning the n_estimators in RandomForestModel.
